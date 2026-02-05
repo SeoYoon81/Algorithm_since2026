@@ -6,7 +6,8 @@
 
 | 번호 | 문제명 | 유형 | 핵심 포인트 |
 |----|------|----|-----------|
-| 11437 | ㅣLCA | 트리, Binary lifting | python으로는 gold임에도 binary를 사용해야 시간 초과 안 뜸 |
+| 11437 | LCA | 트리, Binary lifting | python으로는 gold임에도 binary를 사용해야 시간 초과 안 뜸 |
+| 10986 | 나머지 합 | 수학, 누적합 | 정수론, 시작점 0 잊지말기 |
 
 </details>
 
