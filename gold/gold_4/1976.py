@@ -9,4 +9,4 @@ map_dict = {}
 for i in range(1, n + 1):
     now_lst = [0] + list(map(int, input().split()))
     map_dict[i] = [ j for j in range(1, n + 1) if now_lst[j]==1]
-print(map_dict)
+
